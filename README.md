@@ -31,7 +31,6 @@ I enjoy building web applications and working on data-driven projects to solve r
 - Authentication Concepts
 
 ### Tools
-- Git
 - VS Code
 - Jupyter Notebook
 
