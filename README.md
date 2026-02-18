@@ -8,8 +8,8 @@
 I am a Computer Science graduate passionate about technology, cybersecurity, and data analytics.  
 I enjoy building web applications and working on data-driven projects to solve real-world problems.
 
-- 🔭 Currently learning: Machine Learning & Advanced Cybersecurity Concepts
-- 💡 Interested in: Data Analytics, AI, Web Development & Security
+- 🔭 Currently learning: Advanced Cybersecurity Concepts
+- 💡 Interested in: Data Analytics, Web Development & Security
 - 📫 Email: vyshucic@gmail.com
 - 🌐 GitHub: https://github.com/vyshnavi-rangapagari
 
