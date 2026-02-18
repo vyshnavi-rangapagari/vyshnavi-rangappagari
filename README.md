@@ -1,4 +1,4 @@
-# Hi, I'm Vyshnavi-rangappagari 👋
+# Hi, I'm Vyshnavi Rangappa 👋
 
 🎓 Computer Science Graduate | 💻 Data Science Learner | 🔐 Cybersecurity Enthusiast  
 
